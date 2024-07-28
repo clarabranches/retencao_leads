@@ -1,0 +1,101 @@
+Nome,Telefone,Data_Contato,Origem,Tempo_Matricula,Status_Matricula,Pessoa_Contato,Permissao_Responsavel
+Davi Lucas Correia,+55 (081) 6171 7180,2024-05-09,WhatsApp,0,Realizada,Calebe,Sim
+Davi Lucas Nunes,41 4453 3531,2024-02-20,WhatsApp,2,Pendente,João Pedro,Não
+Vicente Aragão,51 8288 9348,2024-07-14,WhatsApp,5,Realizada,Ana Júlia,Não
+Vitor Gabriel Cunha,+55 (021) 2688 0177,2024-07-06,WhatsApp,16,Pendente,Lucca,Não
+Enzo Correia,(041) 8645 3085,2024-06-05,WhatsApp,26,Pendente,Thales,Sim
+Noah Fernandes,81 3835-6184,2024-07-16,WhatsApp,22,Realizada,Leonardo,Não
+Camila Moraes,41 7706 1120,2024-05-24,WhatsApp,14,Realizada,Pedro Lucas,Não
+Luana Mendes,(061) 3007 6493,2024-02-15,WhatsApp,26,Pendente,Vinicius,Sim
+Nathan Pereira,+55 71 1675-9217,2024-03-27,WhatsApp,6,Pendente,Beatriz,Não
+Anthony Moreira,+55 (021) 8435 4212,2024-04-06,WhatsApp,12,Pendente,Alexandre,Não
+Sr. Pedro Lucas Lima,(084) 2207 4820,2024-06-27,WhatsApp,22,Pendente,Davi Lucas,Não
+Gabriela Rezende,+55 41 9318-4594,2024-05-09,WhatsApp,28,Pendente,Bruna,Não
+Srta. Sophia Barros,+55 11 7677-5751,2024-02-18,WhatsApp,8,Realizada,Clarice,Não
+Sr. Enzo Gabriel Moreira,+55 (084) 9682 7580,2024-06-30,WhatsApp,8,Pendente,Emilly,Sim
+Maria Alice Cunha,(084) 6358 3201,2024-02-08,WhatsApp,8,Realizada,Isis,Sim
+Cauê Santos,+55 (041) 4770-7401,2024-02-07,WhatsApp,3,Realizada,Calebe,Sim
+Sra. Lívia Rocha,(081) 3115 2157,2024-02-05,WhatsApp,16,Pendente,Lara,Sim
+Maria Alice Fernandes,+55 (021) 7248-1588,2024-05-02,WhatsApp,10,Pendente,João Gabriel,Sim
+João Guilherme Cunha,(081) 3090 8733,2024-05-10,WhatsApp,16,Pendente,Beatriz,Não
+Dr. Pedro Lucas Mendes,61 5569 6638,2024-02-26,WhatsApp,16,Pendente,Alice,Sim
+Yago Oliveira,+55 41 2993 4078,2024-03-06,WhatsApp,0,Realizada,Helena,Não
+Maria Castro,(021) 0868-3467,2024-02-14,WhatsApp,2,Realizada,Manuela,Não
+Giovanna Cavalcanti,+55 11 0398-2527,2024-01-31,WhatsApp,22,Pendente,Benjamin,Sim
+Vicente Barros,+55 71 9365-0221,2024-01-01,WhatsApp,25,Realizada,Emanuel,Sim
+Ana Luiza Silva,0300-268-8657,2024-02-07,WhatsApp,18,Realizada,Lucca,Sim
+Sofia Nunes,+55 (051) 3677-6653,2024-03-30,WhatsApp,17,Pendente,João Gabriel,Sim
+Eloah Silveira,(051) 0755-8951,2024-02-19,WhatsApp,1,Realizada,Theo,Não
+Dra. Sabrina Rodrigues,61 1357-7738,2024-07-25,WhatsApp,16,Realizada,Isadora,Não
+Dr. Heitor Pereira,(021) 5970 1424,2024-02-16,WhatsApp,18,Realizada,Mariana,Não
+Luna Alves,+55 21 8531-3820,2024-02-04,WhatsApp,12,Pendente,Clara,Sim
+Felipe Novaes,61 2954-1262,2024-06-11,WhatsApp,15,Realizada,Calebe,Não
+Luiza Gonçalves,(021) 1073 1887,2024-03-20,WhatsApp,5,Realizada,Gustavo Henrique,Não
+Marcelo Moura,0800 215 8613,2024-01-16,WhatsApp,27,Realizada,Ana,Sim
+Srta. Maitê Nascimento,(041) 8122-9006,2024-03-17,WhatsApp,12,Realizada,Davi Lucca,Sim
+Raquel Cardoso,31 2021 5897,2024-04-06,WhatsApp,4,Realizada,Cecília,Não
+Helena Moreira,(011) 5692-1100,2024-05-29,WhatsApp,20,Pendente,Ana Vitória,Não
+João Guilherme Teixeira,+55 21 2038 0016,2024-06-14,WhatsApp,30,Realizada,Thomas,Sim
+João Gabriel da Cruz,41 1461-2022,2024-04-03,WhatsApp,23,Realizada,Emanuella,Não
+Lavínia Caldeira,(084) 4142-1820,2024-01-08,WhatsApp,18,Realizada,Luigi,Sim
+Dr. Vitor Hugo Campos,(031) 0491 2645,2024-01-30,WhatsApp,7,Pendente,Levi,Não
+Sophie da Mata,+55 (031) 9304 0413,2024-05-27,WhatsApp,30,Realizada,Alana,Não
+Camila Dias,+55 (084) 2856 3755,2024-06-11,WhatsApp,27,Realizada,Gabriela,Não
+Emanuella Lopes,+55 21 9926 4480,2024-04-05,WhatsApp,8,Realizada,Luiz Miguel,Não
+Breno Castro,+55 (084) 6779-2909,2024-02-20,WhatsApp,26,Realizada,Bruna,Sim
+Levi Silveira,+55 (061) 6823 7684,2024-02-03,WhatsApp,13,Realizada,Luiz Fernando,Não
+Maria Sophia Santos,+55 (061) 1023 0942,2024-05-12,WhatsApp,26,Realizada,João Miguel,Sim
+Gabriela da Rocha,+55 11 8352 4718,2024-04-14,WhatsApp,10,Realizada,João Miguel,Não
+Cauê Duarte,+55 (061) 9847 1642,2024-05-19,WhatsApp,27,Pendente,Vinicius,Não
+Ana Julia Araújo,11 7285-4449,2024-04-18,WhatsApp,17,Pendente,Bárbara,Sim
+Enrico Costa,61 5171 3347,2024-05-18,WhatsApp,15,Pendente,Amanda,Não
+Carolina Caldeira,(051) 1645 4948,2024-06-04,WhatsApp,19,Realizada,Diogo,Não
+Heloísa Costa,51 7999 9629,2024-01-23,WhatsApp,10,Pendente,Davi Lucca,Sim
+Laura da Costa,+55 31 3049 3225,2024-03-10,WhatsApp,28,Pendente,Benício,Não
+Lorena Gonçalves,51 7855 9229,2024-05-22,WhatsApp,14,Realizada,Bárbara,Sim
+Cauê Cardoso,(021) 9231 2805,2024-06-05,WhatsApp,1,Pendente,Isabel,Sim
+Dra. Sofia Farias,(031) 8779 0534,2024-01-21,WhatsApp,29,Pendente,Melissa,Sim
+Francisco da Rocha,+55 11 3299 3765,2024-05-15,WhatsApp,29,Pendente,Vitória,Sim
+Lucca Fogaça,(041) 8905 9956,2024-03-22,WhatsApp,22,Pendente,Bárbara,Sim
+Dr. Rodrigo Cardoso,+55 (011) 0145 2014,2024-01-04,WhatsApp,5,Realizada,Lorenzo,Não
+Luana Gonçalves,+55 (051) 8888-0098,2024-02-27,WhatsApp,0,Pendente,Marina,Sim
+Srta. Rebeca Cavalcanti,31 2570-7403,2024-01-29,WhatsApp,26,Pendente,Bernardo,Sim
+Gabrielly da Cunha,(071) 6031 1177,2024-06-25,WhatsApp,16,Pendente,Gustavo Henrique,Não
+Luiz Henrique Campos,31 7454-6244,2024-02-14,WhatsApp,29,Pendente,Cecília,Sim
+Sophia Gomes,71 2551 9960,2024-05-04,WhatsApp,8,Realizada,Manuela,Sim
+Dra. Evelyn Mendes,+55 51 7375 6272,2024-06-12,WhatsApp,1,Realizada,Luigi,Sim
+João Miguel Nascimento,(051) 3325 2965,2024-03-22,WhatsApp,15,Pendente,Heloísa,Não
+Renan Lima,(084) 6423-3587,2024-02-07,WhatsApp,2,Pendente,Levi,Sim
+Raquel da Conceição,(084) 8735 0576,2024-02-09,WhatsApp,25,Pendente,Joaquim,Sim
+Thomas Costa,0900-258-8214,2024-02-20,WhatsApp,6,Realizada,Joana,Não
+Isadora Lopes,+55 (061) 9755 7777,2024-02-24,WhatsApp,9,Realizada,Melissa,Não
+Marina Vieira,(081) 2820 6900,2024-02-28,WhatsApp,27,Realizada,Nina,Não
+Sra. Maria Eduarda Almeida,0900-622-2736,2024-03-01,WhatsApp,24,Realizada,Isabel,Não
+Maria Cecília Cunha,+55 (061) 5571-2260,2024-04-01,WhatsApp,28,Realizada,Maria Vitória,Sim
+Mariane das Neves,+55 (021) 8156 3168,2024-01-07,WhatsApp,3,Pendente,Noah,Sim
+Lucca Rocha,31 4833 2227,2024-01-24,WhatsApp,18,Pendente,Juliana,Não
+Sr. Eduardo Viana,0900-240-3104,2024-04-07,WhatsApp,11,Pendente,Larissa,Não
+Nicole Pinto,(021) 5220-7938,2024-04-28,WhatsApp,23,Realizada,Nicole,Não
+Srta. Maria Eduarda Almeida,41 5562 3607,2024-03-16,WhatsApp,11,Realizada,Mariana,Sim
+Beatriz Silva,+55 21 2968-0288,2024-04-30,WhatsApp,0,Realizada,Isis,Sim
+Enzo Gabriel Peixoto,(061) 7190 9496,2024-07-16,WhatsApp,25,Pendente,Davi Lucca,Não
+Calebe Rodrigues,+55 (051) 2993 0111,2024-07-14,WhatsApp,9,Realizada,Luiz Henrique,Não
+Benjamin Cardoso,+55 (051) 5361-4773,2024-02-15,WhatsApp,26,Pendente,Stephany,Não
+Pedro Henrique Cavalcanti,51 5280 7858,2024-03-13,WhatsApp,29,Realizada,Helena,Não
+Maria Alice Cavalcanti,0500 191 6537,2024-05-27,WhatsApp,3,Pendente,Marcos Vinicius,Não
+Marina Viana,+55 31 0419-7591,2024-06-27,WhatsApp,20,Pendente,Felipe,Sim
+Dra. Ana Júlia da Costa,(084) 5606 1193,2024-01-23,WhatsApp,14,Realizada,Fernando,Sim
+Vitor Gabriel Rezende,11 6248 3694,2024-07-25,WhatsApp,25,Pendente,Enzo Gabriel,Não
+Sra. Maria Julia da Paz,(011) 1630 4055,2024-01-22,WhatsApp,20,Realizada,Sabrina,Sim
+Yasmin da Mata,(011) 9908 0854,2024-04-05,WhatsApp,22,Pendente,Thomas,Não
+Benjamin Cavalcanti,41 3254 2955,2024-06-03,WhatsApp,14,Realizada,Luiz Gustavo,Não
+Davi Pires,(011) 3089 5798,2024-06-21,WhatsApp,25,Pendente,Yasmin,Não
+Maria Vitória Ferreira,0900 413 1009,2024-02-03,WhatsApp,8,Realizada,Stephany,Sim
+Maria Sophia Lopes,(061) 1153-2213,2024-03-10,WhatsApp,19,Pendente,Luiz Otávio,Sim
+Lavínia Freitas,11 8497-5165,2024-06-03,WhatsApp,5,Pendente,Guilherme,Sim
+Ana Vitória Oliveira,(011) 4996 6405,2024-01-17,WhatsApp,20,Realizada,Ana Luiza,Não
+Sr. Lucas da Rocha,+55 21 7234-2397,2024-01-01,WhatsApp,3,Pendente,Luigi,Sim
+Srta. Sophia Moraes,21 0484-3820,2024-04-15,WhatsApp,4,Pendente,Eloah,Sim
+Maria Alice Azevedo,+55 61 4840-4337,2024-04-18,WhatsApp,19,Realizada,Emanuel,Sim
+Fernando Rodrigues,71 9817-1702,2024-02-14,WhatsApp,14,Realizada,Diego,Não
+Sr. Joaquim Porto,+55 51 8197 2166,2024-01-05,WhatsApp,3,Realizada,Luiz Henrique,Sim
